@@ -1,15 +1,16 @@
 # CloudRun-CDN
+1- copiar el repositorio a su cuenta
 ![Selección_025](https://github.com/user-attachments/assets/7e408d98-3311-4865-b659-9242366d1f2a)
-![Selección_025](https://github.com/user-attachments/assets/7e408d98-3311-4865-b659-9242366d1f2a)
+
+2- conectar su repositorio github
+![Selección_016](https://github.com/user-attachments/assets/c72a8290-b842-4e73-a3b9-471a1b504c71)
+
+![Selección_017](https://github.com/user-attachments/assets/b169aa30-0e33-4ed0-9916-5062ae26129f)
+
+![Selección_018](https://github.com/user-attachments/assets/389b04d4-4d22-4dac-a2ec-283ec7637a40)
 
 
 
-
-1- ![Selección_016](https://github.com/user-attachments/assets/c72a8290-b842-4e73-a3b9-471a1b504c71)
-
-2- ![Selección_017](https://github.com/user-attachments/assets/b169aa30-0e33-4ed0-9916-5062ae26129f)
-
-3- ![Selección_018](https://github.com/user-attachments/assets/389b04d4-4d22-4dac-a2ec-283ec7637a40)
 
 4- ![Selección_019](https://github.com/user-attachments/assets/b418679b-e2ca-4aec-9145-568f3fed7741)
 
