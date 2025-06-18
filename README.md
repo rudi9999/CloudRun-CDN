@@ -20,6 +20,6 @@
 
 7- ![Selección_022](https://github.com/user-attachments/assets/b28bf97f-7e03-4bfd-942d-51d4b00248c3)
 
-8- ![Selección_023](https://github.com/user-attachments/assets/b02aaa6d-770e-408a-9664-109217000c4d)
+8- ![Selección_023](https://github.com/user-attachments/assets/b441a657-af40-4cab-b915-c3614427df6f)
 
 9 -![Selección_024](https://github.com/user-attachments/assets/d745299f-cd7f-4b8d-8e78-5e6e98b7a53c)
